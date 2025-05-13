@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "libpq-fe.h": "c",
+        "cstdlib": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "limits.h": "c",
+        "type_traits": "cpp",
+        "cutypes.h": "c",
+        "math.h": "c"
+    },
+    "editor.formatOnSave": true,
+    "C_Cpp.formatting": "clangFormat",
+    "C_Cpp.clang_format_style": "file",
+}
