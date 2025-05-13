@@ -31,7 +31,7 @@ int main(int argc, char** argv)
     if (argc > 1)
         conninfo = argv[1];
     else
-        conninfo = "postgresql://postgres:admin@localhost:5432/imdb_cmigrator";
+        conninfo = "postgresql://postgres:admin@localhost:5432/db";
 
     conn = PQconnectdb(conninfo);
 
